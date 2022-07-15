@@ -15,7 +15,7 @@
     <br>
     <a href="/rana5_heading_paragraph.html" target="_blank">tut5</a>
     <br>
-    <a href="https://github.com/Rtarachan02/Rtarachan02.github.io/blob/main/rana8_forms.html" target="_blank">Forms</a>
+    <a href="rana8_forms.html" target="_blank">Forms</a>
     <!--Code to include to images-->
     <img src="https://images.unsplash.com/photo-1602429438429-3def765b84d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=739&q=80" alt="Error loading image">
     <br>
